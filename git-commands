@@ -5,3 +5,5 @@ git reset
 git init
 git status
 git clone
+git diff
+
