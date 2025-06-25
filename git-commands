@@ -5,5 +5,8 @@ git reset
 git init
 git status
 git clone
-git diff
+<<<<<<< HEAD
+
 git branch -d <branch>
+=======
+>>>>>>> parent of 696a6f2 (git diff command)
