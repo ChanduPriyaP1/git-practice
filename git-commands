@@ -6,4 +6,4 @@ git init
 git status
 git clone
 git diff
-
+git branch -d <branch>
