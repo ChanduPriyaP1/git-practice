@@ -4,4 +4,4 @@ git push
 git reset
 git init
 git status
-
+git clone
